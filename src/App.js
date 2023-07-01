@@ -11,6 +11,8 @@ import RouterReact from "./Router/RouterReact";
 
 export default function App() {
   return (
+    <React.Fragment>
    <RouterReact/>
+   </React.Fragment>
   );
 }
