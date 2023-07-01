@@ -1,0 +1,57 @@
+/* RegistrationForm.css
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:#343a40;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    color: white;
+  }
+  
+  .dark-mode .container {
+    background-color: #343a40;
+    color: #fff;
+  }
+  
+  .text-primary {
+    color: #007bff;
+  }
+  
+  .dark-text {
+    color: #fff;
+  }
+  
+  .dark-input {
+    background-color: #fff;
+    color: black;
+    border-color: #343a40;
+  }
+  
+  .error-message {
+    color: red;
+  }
+  
+  .checkbox-input {
+    margin-right: 10px;
+  }
+  
+  .checkbox-label {
+    color: white;
+  }
+  
+  .btn-register {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+  }
+  
+  .login-link {
+    margin-top: 10px;
+  }
+  
+  .login-link a {
+    color: #007bff;
+  }
+   */
